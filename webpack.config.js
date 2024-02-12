@@ -9,7 +9,7 @@ module.exports = [{
     name: 'js',
     entry: sgmfScripts.createJsPath(),
     output: {
-        path: path.resolve('./cartridges/sfra_demo/cartridge/static'),
+        path: path.resolve('./cartridges/partner_learning_camp_test_cartridge/cartridge/static'),
         filename: '[name].js'
     }
 }];
